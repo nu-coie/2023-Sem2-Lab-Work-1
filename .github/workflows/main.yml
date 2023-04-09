@@ -1,4 +1,4 @@
-name: Hello/
+name: hello tests
 on: [push]
 jobs:
   Autograding:
