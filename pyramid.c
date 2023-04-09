@@ -10,3 +10,18 @@ int main(void)
     // Step ( 2 ) : Draw the Pyramid (Hint* : Use nested for loop)
      
 }
+
+
+
+
+/*
+
+The output should me similar to this :
+Size: 4
+   #
+  ##
+ ###
+####
+
+
+*/
