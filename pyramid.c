@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    // Step ( 1 ) : Prompt the user for Size of Pyramid
+    // Step ( 1 ) : Prompt the user for Pyramid Size
 
     
 
