@@ -16,7 +16,8 @@ int main(void)
 
 /*
 
-The output should me similar to this :
+This is what the output should look like. :
+./pyramid
 Size: 4
    #
   ##
